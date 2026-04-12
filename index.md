@@ -29,6 +29,7 @@ _Last updated: 2026-04-12_
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
 | [Andrej Karpathy](wiki/entities/andrej-karpathy.md) | AI researcher, co-founder of OpenAI, author of the LLM Wiki pattern | `person` `ai-researcher` | 2026-04-12 |
+| [Obsidian](wiki/entities/obsidian.md) | Local-first markdown knowledge tool; the viewer/IDE in the LLM Wiki pattern | `tool` `knowledge-management` `markdown` | 2026-04-12 |
 
 ---
 

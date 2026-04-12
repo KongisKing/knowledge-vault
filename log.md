@@ -38,3 +38,10 @@ _Append-only. Never delete entries. Most recent at the bottom._
 - Key content: compounding wiki vs RAG, 3 layers, 3 operations, Vannevar Bush's Memex connection
 
 ---
+## [2026-04-12 12:10] ingest | Obsidian entity page (from Karpathy LLM Wiki source)
+
+- Created: `wiki/entities/obsidian.md`
+- Updated: `index.md` (entities table)
+- Key content: viewer/IDE role in LLM Wiki pattern, Web Clipper, graph view, Dataview, Marp plugins
+
+---
