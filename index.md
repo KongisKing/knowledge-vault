@@ -21,6 +21,7 @@ _Last updated: 2026-04-12_
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
 | [Karpathy LLM Wiki Pattern](wiki/summaries/karpathy-llm-wiki-pattern.md) | Compounding wiki pattern where LLM maintains persistent interlinked knowledge instead of re-deriving via RAG | `llm-wiki` `knowledge-management` `second-brain` | 2026-04-12 |
+| [Karpathy Coding Guidelines for LLMs](wiki/summaries/karpathy-coding-guidelines.md) | Four principles to fix LLM coding pitfalls: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution | `coding-guidelines` `vibe-coding` `karpathy` | 2026-04-12 |
 
 ---
 
@@ -28,7 +29,7 @@ _Last updated: 2026-04-12_
 
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
-| [Andrej Karpathy](wiki/entities/andrej-karpathy.md) | AI researcher, co-founder of OpenAI, author of the LLM Wiki pattern | `person` `ai-researcher` | 2026-04-12 |
+| [Andrej Karpathy](wiki/entities/andrej-karpathy.md) | AI researcher, co-founder of OpenAI, author of the LLM Wiki pattern and coding guidelines | `person` `ai-researcher` | 2026-04-12 |
 | [Obsidian](wiki/entities/obsidian.md) | Local-first markdown knowledge tool; the viewer/IDE in the LLM Wiki pattern | `tool` `knowledge-management` `markdown` | 2026-04-12 |
 
 ---
@@ -38,6 +39,10 @@ _Last updated: 2026-04-12_
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
 | [LLM Wiki Pattern](wiki/concepts/llm-wiki-pattern.md) | Pattern for building persistent compounding knowledge bases maintained by LLMs | `knowledge-management` `llm` `pattern` | 2026-04-12 |
+| [Surgical Changes](wiki/concepts/surgical-changes.md) | Touch only what the request requires; every changed line must trace to the user's ask | `coding-discipline` `vibe-coding` | 2026-04-12 |
+| [Think Before Coding](wiki/concepts/think-before-coding.md) | State assumptions, surface ambiguity, present tradeoffs before writing any code | `coding-discipline` `vibe-coding` | 2026-04-12 |
+| [Goal-Driven Execution](wiki/concepts/goal-driven-execution.md) | Define verifiable success criteria first; test-first loop for bugs | `coding-discipline` `tdd` `vibe-coding` | 2026-04-12 |
+| [Simplicity First](wiki/concepts/simplicity-first.md) | Minimum code that solves today's problem; no speculative features or premature abstraction | `coding-discipline` `yagni` `vibe-coding` | 2026-04-12 |
 
 ---
 

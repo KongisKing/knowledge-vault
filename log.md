@@ -45,3 +45,15 @@ _Append-only. Never delete entries. Most recent at the bottom._
 - Key content: viewer/IDE role in LLM Wiki pattern, Web Clipper, graph view, Dataview, Marp plugins
 
 ---
+## [2026-04-12 13:00] ingest | Karpathy Coding Guidelines (forrestchang/andrej-karpathy-skills)
+
+- Created: `wiki/summaries/karpathy-coding-guidelines.md`
+- Created: `wiki/concepts/surgical-changes.md`
+- Created: `wiki/concepts/think-before-coding.md`
+- Created: `wiki/concepts/goal-driven-execution.md`
+- Created: `wiki/concepts/simplicity-first.md`
+- Updated: `index.md` (summaries + 4 new concept rows)
+- Action taken: 3 new Kong skills installed (think-before-coding, surgical-changes, goal-driven-execution)
+- Action taken: Codex mandatory skill list updated from 4 → 7 skills
+
+---

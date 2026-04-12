@@ -1,0 +1,11 @@
+{
+  "monospaceFont": "",
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "tabSize": 2
+}
