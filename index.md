@@ -20,7 +20,7 @@ _Last updated: 2026-04-12_
 
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
-| _(none yet — add sources via INGEST)_ | | | |
+| [Karpathy LLM Wiki Pattern](wiki/summaries/karpathy-llm-wiki-pattern.md) | Compounding wiki pattern where LLM maintains persistent interlinked knowledge instead of re-deriving via RAG | `llm-wiki` `knowledge-management` `second-brain` | 2026-04-12 |
 
 ---
 
@@ -28,7 +28,7 @@ _Last updated: 2026-04-12_
 
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
-| _(none yet — created automatically during INGEST)_ | | | |
+| [Andrej Karpathy](wiki/entities/andrej-karpathy.md) | AI researcher, co-founder of OpenAI, author of the LLM Wiki pattern | `person` `ai-researcher` | 2026-04-12 |
 
 ---
 
@@ -36,7 +36,7 @@ _Last updated: 2026-04-12_
 
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
-| _(none yet — created automatically during INGEST)_ | | | |
+| [LLM Wiki Pattern](wiki/concepts/llm-wiki-pattern.md) | Pattern for building persistent compounding knowledge bases maintained by LLMs | `knowledge-management` `llm` `pattern` | 2026-04-12 |
 
 ---
 

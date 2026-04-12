@@ -29,3 +29,12 @@ _Append-only. Never delete entries. Most recent at the bottom._
 - Key content: LLM Wiki pattern formalized, AGENTS.md schema, 3 operations (ingest/query/lint), vault lives at ~/knowledge-vault/
 
 ---
+## [2026-04-12 11:45] ingest | Karpathy LLM Wiki Pattern (via defileo X post)
+
+- Created: `wiki/summaries/karpathy-llm-wiki-pattern.md`
+- Created: `wiki/entities/andrej-karpathy.md`
+- Created: `wiki/concepts/llm-wiki-pattern.md`
+- Updated: `index.md` (summaries, entities, concepts tables)
+- Key content: compounding wiki vs RAG, 3 layers, 3 operations, Vannevar Bush's Memex connection
+
+---
