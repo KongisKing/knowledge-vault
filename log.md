@@ -57,3 +57,15 @@ _Append-only. Never delete entries. Most recent at the bottom._
 - Action taken: Codex mandatory skill list updated from 4 → 7 skills
 
 ---
+## [2026-04-12 13:50] ingest | Your Harness, Your Memory — Harrison Chase
+
+- Created: `wiki/summaries/harrison-chase-your-harness-your-memory.md`
+- Created: `wiki/entities/harrison-chase.md`
+- Created: `wiki/concepts/agent-harness.md`
+- Created: `wiki/concepts/agent-memory.md`
+- Created: `wiki/concepts/vendor-lock-in.md`
+- Created: `wiki/concepts/data-flywheel.md`
+- Updated: `index.md` (summaries, entities, concepts tables)
+- Key insight: memory IS the harness; closed harnesses = lock-in; Kong's file-based memory is already the right architecture
+
+---

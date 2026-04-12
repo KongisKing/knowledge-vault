@@ -22,6 +22,7 @@ _Last updated: 2026-04-12_
 |------|---------|------|---------|
 | [Karpathy LLM Wiki Pattern](wiki/summaries/karpathy-llm-wiki-pattern.md) | Compounding wiki pattern where LLM maintains persistent interlinked knowledge instead of re-deriving via RAG | `llm-wiki` `knowledge-management` `second-brain` | 2026-04-12 |
 | [Karpathy Coding Guidelines for LLMs](wiki/summaries/karpathy-coding-guidelines.md) | Four principles to fix LLM coding pitfalls: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution | `coding-guidelines` `vibe-coding` `karpathy` | 2026-04-12 |
+| [Your Harness, Your Memory](wiki/summaries/harrison-chase-your-harness-your-memory.md) | Memory is inseparable from the agent harness; closed harnesses = memory lock-in; own your memory layer | `agent-harness` `memory` `lock-in` `langchain` | 2026-04-12 |
 
 ---
 
@@ -30,6 +31,7 @@ _Last updated: 2026-04-12_
 | Page | Summary | Tags | Updated |
 |------|---------|------|---------|
 | [Andrej Karpathy](wiki/entities/andrej-karpathy.md) | AI researcher, co-founder of OpenAI, author of the LLM Wiki pattern and coding guidelines | `person` `ai-researcher` | 2026-04-12 |
+| [Harrison Chase](wiki/entities/harrison-chase.md) | LangChain founder; author of "Your Harness, Your Memory" | `person` `langchain` `agent-harness` | 2026-04-12 |
 | [Obsidian](wiki/entities/obsidian.md) | Local-first markdown knowledge tool; the viewer/IDE in the LLM Wiki pattern | `tool` `knowledge-management` `markdown` | 2026-04-12 |
 
 ---
@@ -43,6 +45,10 @@ _Last updated: 2026-04-12_
 | [Think Before Coding](wiki/concepts/think-before-coding.md) | State assumptions, surface ambiguity, present tradeoffs before writing any code | `coding-discipline` `vibe-coding` | 2026-04-12 |
 | [Goal-Driven Execution](wiki/concepts/goal-driven-execution.md) | Define verifiable success criteria first; test-first loop for bugs | `coding-discipline` `tdd` `vibe-coding` | 2026-04-12 |
 | [Simplicity First](wiki/concepts/simplicity-first.md) | Minimum code that solves today's problem; no speculative features or premature abstraction | `coding-discipline` `yagni` `vibe-coding` | 2026-04-12 |
+| [Agent Harness](wiki/concepts/agent-harness.md) | Scaffolding around an LLM that manages tools, context, and memory — inseparable from memory | `agent` `scaffolding` `memory` | 2026-04-12 |
+| [Agent Memory](wiki/concepts/agent-memory.md) | Short and long-term memory managed by the harness; the real moat in agentic AI | `memory` `agent` `personalization` | 2026-04-12 |
+| [Vendor Lock-in](wiki/concepts/vendor-lock-in.md) | Losing portability when memory/state lives inside a provider's closed platform | `lock-in` `portability` `strategy` | 2026-04-12 |
+| [Data Flywheel](wiki/concepts/data-flywheel.md) | Compounding competitive advantage from accumulated user interaction data | `flywheel` `moat` `data` | 2026-04-12 |
 
 ---
 
