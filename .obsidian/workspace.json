@@ -185,6 +185,9 @@
   },
   "active": "5117f983e2535864",
   "lastOpenFiles": [
+    "wiki/concepts/graph-traversal.md",
+    "wiki/concepts/knowledge-graph.md",
+    "wiki/summaries/knowledge-graph-query-optimization.md",
     "wiki/concepts/data-flywheel.md",
     "wiki/concepts/vendor-lock-in.md",
     "wiki/concepts/agent-memory.md",

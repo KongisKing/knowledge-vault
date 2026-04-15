@@ -69,3 +69,13 @@ _Append-only. Never delete entries. Most recent at the bottom._
 - Key insight: memory IS the harness; closed harnesses = lock-in; Kong's file-based memory is already the right architecture
 
 ---
+## [2026-04-15 14:20] ingest | Knowledge Graph Query Optimization — @techwith_ram
+
+- Created: `wiki/summaries/knowledge-graph-query-optimization.md`
+- Created: `wiki/concepts/knowledge-graph.md`
+- Created: `wiki/concepts/graph-traversal.md`
+- Updated: `index.md` (summaries + concepts tables)
+- Relevance: Future — when vault scales or WealthOS models fund/portfolio relationships
+- Key insight: indexes first (SPO 6-index), then traversal algorithm choice (BFS/DFS/Dijkstra/A*)
+
+---

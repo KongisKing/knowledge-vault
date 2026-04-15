@@ -23,6 +23,7 @@ _Last updated: 2026-04-12_
 | [Karpathy LLM Wiki Pattern](wiki/summaries/karpathy-llm-wiki-pattern.md) | Compounding wiki pattern where LLM maintains persistent interlinked knowledge instead of re-deriving via RAG | `llm-wiki` `knowledge-management` `second-brain` | 2026-04-12 |
 | [Karpathy Coding Guidelines for LLMs](wiki/summaries/karpathy-coding-guidelines.md) | Four principles to fix LLM coding pitfalls: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution | `coding-guidelines` `vibe-coding` `karpathy` | 2026-04-12 |
 | [Your Harness, Your Memory](wiki/summaries/harrison-chase-your-harness-your-memory.md) | Memory is inseparable from the agent harness; closed harnesses = memory lock-in; own your memory layer | `agent-harness` `memory` `lock-in` `langchain` | 2026-04-12 |
+| [Knowledge Graph Query Optimization](wiki/summaries/knowledge-graph-query-optimization.md) | How to make KG queries fast at scale — SPO indexes, bitmap indexes, BFS/DFS/Dijkstra/A* traversal | `knowledge-graph` `query-optimization` `algorithms` | 2026-04-15 |
 
 ---
 
@@ -49,6 +50,8 @@ _Last updated: 2026-04-12_
 | [Agent Memory](wiki/concepts/agent-memory.md) | Short and long-term memory managed by the harness; the real moat in agentic AI | `memory` `agent` `personalization` | 2026-04-12 |
 | [Vendor Lock-in](wiki/concepts/vendor-lock-in.md) | Losing portability when memory/state lives inside a provider's closed platform | `lock-in` `portability` `strategy` | 2026-04-12 |
 | [Data Flywheel](wiki/concepts/data-flywheel.md) | Compounding competitive advantage from accumulated user interaction data | `flywheel` `moat` `data` | 2026-04-12 |
+| [Knowledge Graph](wiki/concepts/knowledge-graph.md) | Entities + relationships as triples (S,P,O); foundation for graph DBs and semantic querying | `knowledge-graph` `graph-db` `triples` | 2026-04-15 |
+| [Graph Traversal](wiki/concepts/graph-traversal.md) | BFS, DFS, Dijkstra, A* — algorithms for navigating graphs; combinatorial explosion at scale | `graph-traversal` `BFS` `DFS` `algorithms` | 2026-04-15 |
 
 ---
 
