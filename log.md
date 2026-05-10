@@ -79,3 +79,17 @@ _Append-only. Never delete entries. Most recent at the bottom._
 - Key insight: indexes first (SPO 6-index), then traversal algorithm choice (BFS/DFS/Dijkstra/A*)
 
 ---
+
+## [2026-05-10 20:18] ingest | Kong vs gstack Gap Analysis
+
+- Source: `/Users/echandan7/.nanobot/workspace/kong-vs-gstack-gaps.md`
+- Created: `wiki/summaries/kong-vs-gstack-gap-analysis.md`
+- Created: `wiki/projects/kong-refinement.md` (new active project)
+- Created: `wiki/entities/gstack.md`
+- Created: `wiki/entities/garry-tan.md`
+- Created: `wiki/entities/nanobot.md`
+- Created: `wiki/concepts/multi-agent-architecture.md`
+- Created: `wiki/concepts/tool-chaining-pipeline.md`
+- Created: `wiki/concepts/subagent-skill-reading-rule.md`
+- Updated: `index.md` — added 2 projects, 1 summary, 3 entities, 3 concepts
+- Updated: `log.md` — this entry
