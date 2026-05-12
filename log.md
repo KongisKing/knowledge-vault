@@ -98,3 +98,8 @@ _Append-only. Never delete entries. Most recent at the bottom._
 - Source: /Users/echandan7/.agent/explainers/ai-agent-concepts-v2.html (self-created explainer)
 - Added: wiki/summaries/ai-agent-concepts-pm-guide.md (30 concepts, 5 categories)
 - Updated: index.md (Summaries section)
+
+## 2026-05-12 — INGEST: Google SkillOS — Self-Evolving Agents
+- Source: https://x.com/neural_avb/status/2053873358853591435 (AVB thread on Google SkillOS paper)
+- Added: wiki/summaries/google-skillos-self-evolving-agents.md
+- Updated: index.md (Summaries section)
