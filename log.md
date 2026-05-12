@@ -93,3 +93,8 @@ _Append-only. Never delete entries. Most recent at the bottom._
 - Created: `wiki/concepts/subagent-skill-reading-rule.md`
 - Updated: `index.md` — added 2 projects, 1 summary, 3 entities, 3 concepts
 - Updated: `log.md` — this entry
+
+## 2026-05-12 — INGEST: AI Agent Concepts PM Guide
+- Source: /Users/echandan7/.agent/explainers/ai-agent-concepts-v2.html (self-created explainer)
+- Added: wiki/summaries/ai-agent-concepts-pm-guide.md (30 concepts, 5 categories)
+- Updated: index.md (Summaries section)

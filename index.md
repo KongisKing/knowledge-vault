@@ -1,5 +1,5 @@
 # Knowledge Vault Index
-_Last updated: 2026-05-10_
+_Last updated: 2026-05-12_
 
 > Master catalog of everything in the vault. Start here when querying.
 > Each row: page link | one-line description | tags | last updated.
@@ -26,6 +26,7 @@ _Last updated: 2026-05-10_
 | [Your Harness, Your Memory](wiki/summaries/harrison-chase-your-harness-your-memory.md) | Memory is inseparable from the agent harness; closed harnesses = memory lock-in; own your memory layer | `agent-harness` `memory` `lock-in` `langchain` | 2026-04-12 |
 | [Knowledge Graph Query Optimization](wiki/summaries/knowledge-graph-query-optimization.md) | How to make KG queries fast at scale — SPO indexes, bitmap indexes, BFS/DFS/Dijkstra/A* traversal | `knowledge-graph` `query-optimization` `algorithms` | 2026-04-15 |
 | [Kong vs gstack Gap Analysis](wiki/summaries/kong-vs-gstack-gap-analysis.md) | 18-gap benchmark of Kong vs gstack v1.30.0.0; Kong wins on routing/personalization; gstack wins on role breadth/pipelines | `kong` `gstack` `gap-analysis` `agent-architecture` | 2026-05-10 |
+| [AI Agent Concepts — PM's Guide](wiki/summaries/ai-agent-concepts-pm-guide.md) | 30 AI/agent engineering concepts explained for PMs — 5YO + PM mode with nuances and real-world examples | `ai-agents` `pm-guide` `llm` `rag` `multi-agent` `reference` | 2026-05-12 |
 
 ---
 
