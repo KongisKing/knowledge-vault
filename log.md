@@ -103,3 +103,9 @@ _Append-only. Never delete entries. Most recent at the bottom._
 - Source: https://x.com/neural_avb/status/2053873358853591435 (AVB thread on Google SkillOS paper)
 - Added: wiki/summaries/google-skillos-self-evolving-agents.md
 - Updated: index.md (Summaries section)
+
+## 2026-05-15 — INGEST: Building AI Agents: Design Patterns to Production
+- Source: https://docs.google.com/document/d/1keM4ZbbfVmdsq3EAkbAliIegOpnnuBf-_KpD4oDOF0o/mobilebasic
+- Added: wiki/summaries/building-ai-agents-design-patterns-to-production.md
+- Knowledge graph HTML: /Users/echandan7/.agent/explainers/ai-agents-book-knowledge-graph.html
+- Updated: index.md

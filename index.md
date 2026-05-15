@@ -27,6 +27,7 @@ _Last updated: 2026-05-12_
 | [Knowledge Graph Query Optimization](wiki/summaries/knowledge-graph-query-optimization.md) | How to make KG queries fast at scale — SPO indexes, bitmap indexes, BFS/DFS/Dijkstra/A* traversal | `knowledge-graph` `query-optimization` `algorithms` | 2026-04-15 |
 | [Kong vs gstack Gap Analysis](wiki/summaries/kong-vs-gstack-gap-analysis.md) | 18-gap benchmark of Kong vs gstack v1.30.0.0; Kong wins on routing/personalization; gstack wins on role breadth/pipelines | `kong` `gstack` `gap-analysis` `agent-architecture` | 2026-05-10 |
 | [AI Agent Concepts — PM's Guide](wiki/summaries/ai-agent-concepts-pm-guide.md) | 30 AI/agent engineering concepts explained for PMs — 5YO + PM mode with nuances and real-world examples | `ai-agents` `pm-guide` `llm` `rag` `multi-agent` `reference` | 2026-05-12 |
+| [Building AI Agents: Design Patterns to Production](wiki/summaries/building-ai-agents-design-patterns-to-production.md) | 10-chapter book on production agent patterns — ReAct loop, skills, handoffs, multi-agent, MCP, trajectory eval | `ai-agents` `production` `patterns` `MCP` `skills` `multi-agent` | 2026-05-15 |
 | [Google SkillOS — Self-Evolving Agents](wiki/summaries/google-skillos-self-evolving-agents.md) | Google's RL-trained Skill Curator that auto-evolves a SkillRepo; Executor stays frozen; Experience→Memory→Skill loop | `skillos` `google` `rl` `skill-curation` `self-evolving-agents` | 2026-05-12 |
 
 ---
